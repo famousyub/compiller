@@ -1,0 +1,1 @@
+python compiler.py input/input_simple.c --run
